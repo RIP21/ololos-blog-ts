@@ -50,7 +50,7 @@ eclipse {
 
 
 jar {
-    from('../ololos-frontend/dist') {
+    from('../ololos-ts-frontend/dist') {
         into 'static'
     }
 }
