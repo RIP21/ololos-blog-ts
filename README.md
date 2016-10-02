@@ -1,4 +1,4 @@
-# Ololos-blog
+# Ololos-blog-ts (TypeScript version)
 
 It's a blog, which I wrote especially for practice techs, and to finally have a blog :D
 It's a travel blog of me and my sweet girlfriend :)
