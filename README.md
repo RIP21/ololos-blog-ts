@@ -15,7 +15,7 @@ gradle npm_install //only on first run, or when package.json dependencies change
 gradle npm_start
 ```
 Or (Recommended):  
-Run main method in `Application.java` using IDE of your choice. And then go to frontent module and run
+Run main method in `OlolosWebappApplication.java` using IDE of your choice. And then go to frontent module and run
 ```
 npm start -s
 ```
@@ -25,7 +25,7 @@ Run:
 ```
 gradle clean assemble
 cd ololos-backend/build/libs
-java -jar project-template-0.0.1-SNAPSHOT.jar
+java -jar ololos-blog-ts-0.0.1-SNAPSHOT.jar
 ```
 It will 
  1. Compile java/groovy classes  
